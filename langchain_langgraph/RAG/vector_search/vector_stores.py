@@ -48,5 +48,4 @@ def __invoke_agent(prompt: str):
 
     print(ser)
 
-
 __invoke_agent("what is Locality-Sensitive Hashing?")
